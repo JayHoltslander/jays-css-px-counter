@@ -9,7 +9,7 @@ Display height and width accurately. Supports up to 4K resolution (3840x2160)
 ````
 2. create a span or a div on your page with the classes ``.counter-w`` for width and ``counter-h`` for height.
 ````
-<p><span class="counter-w"></span> &nbsp; x <span class="counter-w"></span></p>
+<p><span class="counter-w"></span> &nbsp; x &nbsp; <span class="counter-h"></span></p>
 ````
 
 ## Demo
